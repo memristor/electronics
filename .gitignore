@@ -12,3 +12,5 @@ Assembly\ Exports/
 *.rawProject\ Outputs*/
 # Altium metadata file
 *.PcbDoc.htm
+# Altium project structure
+*.PrjPcbStructure
