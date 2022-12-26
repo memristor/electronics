@@ -1,0 +1,6 @@
+CANbus=CAN_RX,CAN_TX
+Color_Sensor=S0,S1,S2,S3,TCK[1..5]
+I2Cbus=SCL,SDA
+Pressure_Sensor=PS[1..10]
+SPI=S\S\,SCK,SDI,SDO
+UART=RX,TX

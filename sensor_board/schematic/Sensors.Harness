@@ -1,0 +1,2 @@
+Color_Sensor=S0,S1,S2,S3,TCK[1..5]
+Pressure_Sensor=PS[1..10]
