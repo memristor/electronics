@@ -203,7 +203,7 @@ GenerateClassCluster=0
 DocumentUniqueId=CVISBKFU
 
 [Document10]
-DocumentPath=Power.SchDoc
+DocumentPath=..\SCHEMATIC\Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=2000
 AnnotationIndexControlEnabled=1
@@ -220,7 +220,7 @@ GenerateClassCluster=0
 DocumentUniqueId=TFAFIDAQ
 
 [Document11]
-DocumentPath=REVERSE_PROTECTION.SchDoc
+DocumentPath=..\SCHEMATIC\REVERSE_PROTECTION.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=3000
 AnnotationIndexControlEnabled=1
@@ -237,7 +237,7 @@ GenerateClassCluster=0
 DocumentUniqueId=FWMJEAYI
 
 [Document12]
-DocumentPath=5V0_SYS_SUPPLY.SchDoc
+DocumentPath=..\SCHEMATIC\5V0_SYS_SUPPLY.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=4000
 AnnotationIndexControlEnabled=1
@@ -254,7 +254,7 @@ GenerateClassCluster=0
 DocumentUniqueId=AIIROZJZ
 
 [Document13]
-DocumentPath=LDO.SchDoc
+DocumentPath=..\SCHEMATIC\LDO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=5000
 AnnotationIndexControlEnabled=1
@@ -271,24 +271,7 @@ GenerateClassCluster=0
 DocumentUniqueId=NJFBBSSI
 
 [Document14]
-DocumentPath=Motors-Encoders.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=6000
-AnnotationIndexControlEnabled=1
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=9
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GKLYKMIA
-
-[Document15]
-DocumentPath=Encoder.SchDoc
+DocumentPath=..\SCHEMATIC\Encoder.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=7000
 AnnotationIndexControlEnabled=1
@@ -304,8 +287,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DOKNVUOS
 
-[Document16]
-DocumentPath=HBridge.SchDoc
+[Document15]
+DocumentPath=..\SCHEMATIC\HBridge.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=8000
 AnnotationIndexControlEnabled=1
@@ -321,8 +304,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OKGXUERJ
 
+[Document16]
+DocumentPath=..\SCHEMATIC\Motors-Encoders.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SMWJSDQA
+
 [Document17]
-DocumentPath=PIC32MK.SchDoc
+DocumentPath=..\SCHEMATIC\PIC32MK.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=9000
 AnnotationIndexControlEnabled=1
@@ -356,7 +356,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document19]
-DocumentPath=MCLR.SchDoc
+DocumentPath=..\SCHEMATIC\MCLR.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=10000
 AnnotationIndexControlEnabled=1
@@ -373,7 +373,7 @@ GenerateClassCluster=0
 DocumentUniqueId=RKNHVBEU
 
 [Document20]
-DocumentPath=Crystal.SchDoc
+DocumentPath=..\SCHEMATIC\Crystal.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=11000
 AnnotationIndexControlEnabled=1
@@ -407,7 +407,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document22]
-DocumentPath=Communication.SchDoc
+DocumentPath=..\SCHEMATIC\Communication.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=12000
 AnnotationIndexControlEnabled=1
@@ -424,7 +424,7 @@ GenerateClassCluster=0
 DocumentUniqueId=SHKMGNUA
 
 [Document23]
-DocumentPath=CAN.SchDoc
+DocumentPath=..\SCHEMATIC\CAN.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=13000
 AnnotationIndexControlEnabled=1
@@ -476,6 +476,40 @@ DocumentUniqueId=HKJBEGHD
 
 [Document26]
 DocumentPath=Motion_Board_V2.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document27]
+DocumentPath=..\SCHEMATIC\Sheet1.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document28]
+DocumentPath=..\SCHEMATIC\Motors-Encoders.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
