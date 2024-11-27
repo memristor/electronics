@@ -187,9 +187,9 @@ DocumentUniqueId=GVPYNUHG
 
 [Document9]
 DocumentPath=..\SCHEMATIC\MotionBoard_V2.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1000
-AnnotationIndexControlEnabled=1
+AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=0
@@ -204,9 +204,9 @@ DocumentUniqueId=CVISBKFU
 
 [Document10]
 DocumentPath=..\SCHEMATIC\Power.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=2000
-AnnotationIndexControlEnabled=1
+AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=3
@@ -221,9 +221,9 @@ DocumentUniqueId=TFAFIDAQ
 
 [Document11]
 DocumentPath=..\SCHEMATIC\REVERSE_PROTECTION.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=3000
-AnnotationIndexControlEnabled=1
+AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=1
@@ -255,9 +255,9 @@ DocumentUniqueId=AIIROZJZ
 
 [Document13]
 DocumentPath=..\SCHEMATIC\LDO.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=5000
-AnnotationIndexControlEnabled=1
+AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=4
@@ -272,9 +272,9 @@ DocumentUniqueId=NJFBBSSI
 
 [Document14]
 DocumentPath=..\SCHEMATIC\Encoder.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=7000
-AnnotationIndexControlEnabled=1
+AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=10
@@ -289,9 +289,9 @@ DocumentUniqueId=DOKNVUOS
 
 [Document15]
 DocumentPath=..\SCHEMATIC\HBridge.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=8000
-AnnotationIndexControlEnabled=1
+AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=5
@@ -306,12 +306,12 @@ DocumentUniqueId=OKGXUERJ
 
 [Document16]
 DocumentPath=..\SCHEMATIC\Motors-Encoders.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=13
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -323,9 +323,9 @@ DocumentUniqueId=SMWJSDQA
 
 [Document17]
 DocumentPath=..\SCHEMATIC\PIC32MK.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=9000
-AnnotationIndexControlEnabled=1
+AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=6
@@ -357,9 +357,9 @@ DocumentUniqueId=
 
 [Document19]
 DocumentPath=..\SCHEMATIC\MCLR.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=10000
-AnnotationIndexControlEnabled=1
+AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=7
@@ -374,9 +374,9 @@ DocumentUniqueId=RKNHVBEU
 
 [Document20]
 DocumentPath=..\SCHEMATIC\Crystal.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=11000
-AnnotationIndexControlEnabled=1
+AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=8
@@ -408,9 +408,9 @@ DocumentUniqueId=
 
 [Document22]
 DocumentPath=..\SCHEMATIC\Communication.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=12000
-AnnotationIndexControlEnabled=1
+AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=11
@@ -425,9 +425,9 @@ DocumentUniqueId=SHKMGNUA
 
 [Document23]
 DocumentPath=..\SCHEMATIC\CAN.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=13000
-AnnotationIndexControlEnabled=1
+AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=12
@@ -541,6 +541,44 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document30]
+DocumentPath=Motion_Board_V2.BomDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document31]
+DocumentPath=..\SCHEMATIC\Communication.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Motion_Board_V2\Design Rule Check - Motion_Board_V2_PCB.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
