@@ -187,9 +187,9 @@ DocumentUniqueId=GVPYNUHG
 
 [Document9]
 DocumentPath=..\SCHEMATIC\MotionBoard_V2.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1000
-AnnotationIndexControlEnabled=0
+AnnotationEnabled=1
+AnnotateStartValue=100
+AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=0
@@ -204,9 +204,9 @@ DocumentUniqueId=CVISBKFU
 
 [Document10]
 DocumentPath=..\SCHEMATIC\Power.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=2000
-AnnotationIndexControlEnabled=0
+AnnotationEnabled=1
+AnnotateStartValue=200
+AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=3
@@ -221,9 +221,9 @@ DocumentUniqueId=TFAFIDAQ
 
 [Document11]
 DocumentPath=..\SCHEMATIC\REVERSE_PROTECTION.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=3000
-AnnotationIndexControlEnabled=0
+AnnotationEnabled=1
+AnnotateStartValue=300
+AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=1
@@ -239,7 +239,7 @@ DocumentUniqueId=FWMJEAYI
 [Document12]
 DocumentPath=..\SCHEMATIC\5V0_SYS_SUPPLY.SchDoc
 AnnotationEnabled=1
-AnnotateStartValue=4000
+AnnotateStartValue=400
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
@@ -255,9 +255,9 @@ DocumentUniqueId=AIIROZJZ
 
 [Document13]
 DocumentPath=..\SCHEMATIC\LDO.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=5000
-AnnotationIndexControlEnabled=0
+AnnotationEnabled=1
+AnnotateStartValue=500
+AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=4
@@ -272,9 +272,9 @@ DocumentUniqueId=NJFBBSSI
 
 [Document14]
 DocumentPath=..\SCHEMATIC\Encoder.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=7000
-AnnotationIndexControlEnabled=0
+AnnotationEnabled=1
+AnnotateStartValue=700
+AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=10
@@ -289,9 +289,9 @@ DocumentUniqueId=DOKNVUOS
 
 [Document15]
 DocumentPath=..\SCHEMATIC\HBridge.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=8000
-AnnotationIndexControlEnabled=0
+AnnotationEnabled=1
+AnnotateStartValue=800
+AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=5
@@ -306,9 +306,9 @@ DocumentUniqueId=OKGXUERJ
 
 [Document16]
 DocumentPath=..\SCHEMATIC\Motors-Encoders.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
+AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=13
@@ -323,9 +323,9 @@ DocumentUniqueId=SMWJSDQA
 
 [Document17]
 DocumentPath=..\SCHEMATIC\PIC32MK.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=9000
-AnnotationIndexControlEnabled=0
+AnnotationEnabled=1
+AnnotateStartValue=900
+AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=6
@@ -357,9 +357,9 @@ DocumentUniqueId=
 
 [Document19]
 DocumentPath=..\SCHEMATIC\MCLR.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=10000
-AnnotationIndexControlEnabled=0
+AnnotationEnabled=1
+AnnotateStartValue=1000
+AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=7
@@ -374,9 +374,9 @@ DocumentUniqueId=RKNHVBEU
 
 [Document20]
 DocumentPath=..\SCHEMATIC\Crystal.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=11000
-AnnotationIndexControlEnabled=0
+AnnotationEnabled=1
+AnnotateStartValue=1100
+AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=8
@@ -408,9 +408,9 @@ DocumentUniqueId=
 
 [Document22]
 DocumentPath=..\SCHEMATIC\Communication.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=12000
-AnnotationIndexControlEnabled=0
+AnnotationEnabled=1
+AnnotateStartValue=1200
+AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=11
@@ -425,9 +425,9 @@ DocumentUniqueId=SHKMGNUA
 
 [Document23]
 DocumentPath=..\SCHEMATIC\CAN.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=13000
-AnnotationIndexControlEnabled=0
+AnnotationEnabled=1
+AnnotateStartValue=1300
+AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=12
